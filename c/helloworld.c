@@ -1,4 +1,5 @@
-#include <stdio.h>
+/**/
+e <stdio.h>
 
 int main() {
   printf("Hello, git user!\n");
